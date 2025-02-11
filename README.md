@@ -8,4 +8,4 @@ Welcome to the **Jen's Content Guides** repository! This space is designed to he
 - **Social Media Playbook** – Guidelines for engaging with the community across platforms.  
 - **Templates & Examples** – Ready-to-use formats for different content types.  
 
-💡 **Want to contribute?** Check out the [contribution guidelines](#) and submit your ideas!  
+💡 **Want to contribute?** Check out the [contribution guidelines](https://github.com/JenWike/contentstrategy/blob/main/Contributing%20to%20Jen's%20Content%20Guides.txt) and submit your ideas!  
